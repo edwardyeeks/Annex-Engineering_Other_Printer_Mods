@@ -9,8 +9,6 @@ This toolhead was designed, developed and refined by Cerulean of Annex Engineeri
 - Both umbilical and cable chain attachments are supported
 - Magnetic microswitch probing for bed mesh and tri-bed/quad gantry
 
-Coming Soon, pending further internal testing and refinement
-
 ![Alpha 1 of toolhead](Images/alpha1.jpg)
 
 ![Alpha 2 of toolhead and dock](Images/alpha2.jpg)
