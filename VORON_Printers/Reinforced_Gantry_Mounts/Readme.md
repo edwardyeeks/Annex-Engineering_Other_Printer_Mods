@@ -10,4 +10,7 @@ Parts:
 * 8x DIN912 M3x16
 * 4x 1mm M5 washer
 
+Tools:
+* 4mm Allen Key (to tighten the set screws)
+
 ![Picture of Gantry Mount](Images/1.jpg)
