@@ -88,7 +88,9 @@ By default, after the Z axis is homed and calibrated, subsequent requests
 to home the Z axis will not cause calibration to be re-run. Changing these
 options to True will force calibration after every Z homing operation.
 
-# 09-28-2020
+### 09-29-2020
 
 Initial commit of homing macros. 
+These should be considered BETA and could potentially contain bugs that can 
+cause problems. Use with care.
 
